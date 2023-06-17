@@ -1,0 +1,172 @@
+table
+
+{
+    width: 700px;
+    height: 500px;
+    
+}
+
+
+.imagem
+
+{
+    width: 300px;
+    height: 120px;
+    border: 3px solid;
+    border-radius: 7px;
+    border-color: red;
+    text-align: center;
+}    
+
+
+.redpen
+
+{
+    width: 150px;
+    height: 75px;
+    border-radius: 7px;
+    border-color: red;
+    border: 3px solid red  ;
+    text-align: center;
+    
+
+}
+
+#pri
+
+{
+
+    border-radius: 7px ;
+    border-color:green;
+    border: 3px solid green ;
+    text-align: center;
+    font-family:Verdana;
+    font-size: 20px;
+}
+
+#ver
+
+{
+
+     
+    border-color:orange;
+    border: 3px solid orange ;
+    text-align: center;
+    border-radius: 7px;
+    font-family:Verdana;
+    font-size: 20px;
+}
+
+#out
+
+{
+
+
+border-color:rgb(83, 0, 63);
+border: 3px solid purple ;
+text-align: center;
+border-radius: 7px;
+font-family:Verdana;
+font-size: 20px;
+
+}
+
+
+#inv
+{
+
+border-color:dark blue;
+border: 3px solid blue ;
+text-align: center;
+border-radius: 7px;
+font-family:Verdana;
+font-size: 20px;
+
+}
+
+#def
+
+{
+    width: 150px;
+    height: 100px;
+    font-family:Verdana;
+    font-size: 20px;
+    border: 3px solid;
+    border-radius: 7px;
+    border-color: red;
+    text-align: center;
+
+
+
+}
+
+#hemisferio
+{
+
+    width: 150px;
+    height: 100px;
+    font-family:Verdana;
+    font-size: 20px;
+    border: 3px solid;
+    border-radius: 7px;
+    border-color: red;
+    text-align: center;  
+
+
+}
+
+#norte
+{
+
+
+    width: 150px;
+    height: 100px;
+    font-family:Verdana;
+    font-size: 20px;
+    border: 3px solid;
+    border-radius: 7px;
+    border-color: red;
+    text-align: center;  
+
+
+
+}
+
+#sul
+{
+
+
+    width: 150px;
+    height: 100px;
+    font-family:Verdana;
+    font-size: 20px;
+    border: 3px solid;
+    border-radius: 7px;
+    border-color: red;
+    text-align: center;  
+
+
+}
+
+.class
+{
+
+
+    width: 150px;
+    height: 100px;
+    font-family:Verdana;
+    font-size: 20px;
+    border: 3px solid;
+    border-radius: 7px;
+    border-color: red;
+    text-align: center;  
+
+}
+
+#roda
+{
+
+transform: rotate(-90deg);
+font-family:Verdana;
+font-size: 20px;
+} 
